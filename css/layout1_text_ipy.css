@@ -1,0 +1,31 @@
+/*************************************************************/
+/*   Design:   Multiflex-3 Update-7 / Layout-1               */
+/*   File:     Text formats                                  */
+/*-----------------------------------------------------------*/
+/*   Author:   Wolfgang                                      */
+/*   Date:     January 15, 2007                              */
+/*   Homepage: wwww.1-2-3-4.info                             */
+/*-----------------------------------------------------------*/
+/*   License:  Fully open source without restrictions.       */
+/*             Please keep footer credits with a link to     */
+/*             Wolfgang (www.1-2-3-4.info). Thank you!       */
+/*************************************************************/
+
+/******************/
+/*  MAIN SECTION  */
+/******************/
+
+/********************/
+/*  COMMON CLASSES  */
+/********************/
+.main img {clear:both; float:left; margin:3px 10px 7px 0; padding:1px; border:1px solid rgb(150,150,150);}
+.main img.center {clear:both; float:none; display:block; margin:0 auto; padding:1px; border:1px solid rgb(150,150,150);}
+.main img.right {clear:both; float:right; margin:3px 0 7px 10px; padding:1px; border:1px solid rgb(150,150,150);}
+
+.main a {color:rgb(70,122,167); font-weight:bold; text-decoration:none;}
+.main-content h1 a {color:rgb(70,122,167); font-weight:normal; text-decoration:none;}
+.main a:hover {color:rgb(42,90,138); text-decoration:underline;}
+.main a:visited {color:rgb(42,90,138);}
+
+.main a img {border:solid 1px rgb(150,150,150);}
+.main a:hover img {border:solid 1px rgb(220,220,220);}

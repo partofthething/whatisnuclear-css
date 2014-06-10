@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Update-7 / Layout-1             -->
+<!--  Date:    January 15, 2007                            -->
+<!--  Author:  Wolfgang                                    -->
+<!--  License: Fully open source without restrictions.     -->
+<!--           Please keep footer credits with a link to   -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!     -->
+<!-- 11 OK FOR SCRIPT UPDATE TmB -->
+<head>
+  <base href="http://www.whatisnuclear.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Nick Touran" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/favicon.ico" />
+  <title>What is nuclear? / About </title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+  <!-- Main Page Container -->
+  <div class="page-container">
+
+  <!-- For alternative headers START PASTE here -->
+
+
+<!-- A. HEADER -->
+
+<div class="header">
+
+<!-- A.1 HEADER TOP -->
+      <div class="header-top">
+        
+        <!-- Sitelogo and sitename -->
+        <a class="sitelogo" href="/" title="Go to Start page"></a>
+        <div class="sitename">
+          <h1><a href="index.html" title="Go to Start page">WHAT&bull;IS&bull;NUCLEAR?<span style="font-weight:normal;font-size:50%;"></span></a></h1>
+          <h2>No-nonsense public education on the use of nuclear energy to help with the energy problem</h2>
+        </div>
+    
+        <!-- Navigation Level 0 -->
+        <div class="nav0">
+          <ul>
+            <li><a href="./news.xml" title="Our RSS Feed"><img src="./img/feed-icon-28x28.png" alt="Our RSS Feed" /></a></li>
+          </ul>
+        </div>	
+              
+
+        <!-- Navigation Level 1 -->
+        <div class="nav1">
+          <ul>
+            <li><a href="#" title="Go to Start page">Home</a></li>
+            <li><a href="about.html" title="Get to know who we are">About</a></li>
+            <li><a href="contact.html" title="Get in touch with us">Contact</a></li>                    
+          </ul>
+        </div>              
+      </div>
+      
+
+
+    <!-- B. MAIN -->
+    <div class="main">
+  
+      <!-- B.1 MAIN CONTENT -->
+      <div class="main-content">
+
+        <!-- Pagetitle -->
+        <h1 class="pagetitle">404 Error</h1>
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+          
+         <p>Sorry, the URL requested: <!--#echo var="REQUEST_URI" --> does not exist. Please <a href="contact.html">report this problem</a>.</p> 
+        </div>          
+        <hr class="clear-contentunit" />
+       
+        </div>
+      </div>
+    </div>
+      
+    <!-- C. FOOTER AREA -->      
+
+    <div class="footer">
+      <p>Copyright &copy; 2008 Whatisnuclear.com | All Rights Reserved</p>
+      <p class="credits">About our <a href="design.html" title="Designer Homepage">Design</a>  | Maintained by Nick Touran | Powered by <a href="http://cream.sourceforge.net/" title="Cream">Cream</a> | <a href="http://validator.w3.org/check?uri=referer" title="Validate XHTML code">XHTML 1.0</a> | <a href="http://jigsaw.w3.org/css-validator/" title="Validate CSS code">CSS 2.0</a></p>
+    </div>      
+  </div> 
+  
+</body>
+</html>
+
+
+
